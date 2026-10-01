@@ -1198,3 +1198,5 @@ against real responses (each fails loudly with a raw sample):
   ROS 2, dynasty 1.
 - Mock-tested: 7 elite starters (100 / 100) beat mid starters + 25 depth
   players (64.5 ROS / 75.1 dynasty).
+
+  test
